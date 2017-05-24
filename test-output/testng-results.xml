@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21675" started-at="2017-05-23T05:51:53Z" finished-at="2017-05-23T05:52:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21675" started-at="2017-05-23T05:51:53Z" finished-at="2017-05-23T05:52:15Z">
+      <class name="googletest.GoogleTest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:googletest.GoogleTest@75bd9247]" name="openbrowser" duration-ms="21129" started-at="2017-05-23T11:21:53Z" finished-at="2017-05-23T11:22:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:googletest.GoogleTest@75bd9247]" name="teardown" is-config="true" duration-ms="446" started-at="2017-05-23T11:22:14Z" finished-at="2017-05-23T11:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- googletest.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
