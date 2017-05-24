@@ -25,7 +25,7 @@ public class GoogleTest {
 	{
 		File src=((TakesScreenshot)wd).getScreenshotAs(OutputType.FILE);
 
-		FileUtils.copyFile(src,new File("D:\\WORKSPACE\\bdd2-test\\screenshot"));
+		FileUtils.copyFile(src,new File("D:\\WORKSPACE\\bdd2-test\\screenshot\\test.jpeg"));
 		
 
 	}
